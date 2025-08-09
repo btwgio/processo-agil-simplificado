@@ -1,0 +1,7 @@
+title: Processo Ágil Simplificado
+description: Documentação sobre processo ágil simplificado
+
+# GitHub Pages configuração simples
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
