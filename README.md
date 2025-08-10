@@ -1,5 +1,7 @@
 # Processo Ágil Simplificado
 
+<link rel="stylesheet" href="assets/style.css">
+
 Este repositório contém documentação e recursos sobre um processo ágil simplificado para desenvolvimento de software, inspirado no Scrum e conceitos de DevOps.
 
 ## 📋 Como Costuma Ser Nosso Processo
