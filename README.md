@@ -18,27 +18,7 @@ O processo atual segue práticas ágeis inspiradas no **Scrum** e conceitos de *
 
 ## Diagrama de Atividades (Ciclo de Vida)
 
-```mermaid
-flowchart TD
-    A["Início"] --> B["Planejamento da Sprint (Scrum Master, PO)"]
-    B --> C["Definição e Priorização das Tarefas (PO + Time)"]
-    C --> D["Configuração do Ambiente e Ferramentas (Time)"]
-    D --> E["Desenvolvimento Incremental (Time)"]
-    E --> F["Pequenas Entregas Semanais (PO + Time)"]
-    F --> G["Revisão da Sprint (Scrum Master + PO + Time)"]
-    G --> H["Retrospectiva e Ajuste de Papéis (Scrum Master + PO)"]
-    H --> I["Próxima Sprint / Fim"]
-
-    style A fill:#267CB9,stroke:#000,color:#fff
-    style B fill:#267CB9,stroke:#000,color:#fff
-    style C fill:#267CB9,stroke:#000,color:#fff
-    style D fill:#267CB9,stroke:#000,color:#fff
-    style E fill:#267CB9,stroke:#000,color:#fff
-    style F fill:#267CB9,stroke:#000,color:#fff
-    style G fill:#267CB9,stroke:#000,color:#fff
-    style H fill:#267CB9,stroke:#000,color:#fff
-    style I fill:#267CB9,stroke:#000,color:#fff
-```
+![Descrição da imagem](assets/diagrama.png)
 
 
 
