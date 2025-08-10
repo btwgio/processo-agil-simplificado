@@ -18,7 +18,7 @@ O processo atual segue práticas ágeis inspiradas no **Scrum** e conceitos de *
 
 ## Diagrama de Atividades (Ciclo de Vida)
 
-![Descrição da imagem](assets/diagrama.png)
+![Descrição da imagem](assets/diagrama2.png)
 
 
 
